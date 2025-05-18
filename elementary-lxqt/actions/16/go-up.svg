@@ -5,11 +5,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   height="16"
-   width="16"
+   id="svg6"
    version="1.1"
-   id="svg6">
+   width="16"
+   height="16">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,62 +22,9 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs10">
-    <linearGradient
-       xlink:href="#linearGradient78"
-       id="linearGradient72"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-0.61157583,-0.6008607,0,14.611229,15.029157)"
-       x1="21.304237"
-       y1="12.667211"
-       x2="1.6827954"
-       y2="12.667211" />
-    <linearGradient
-       id="linearGradient78">
-      <stop
-         style="stop-color:#9bdb4d;stop-opacity:1"
-         offset="0"
-         id="stop74" />
-      <stop
-         style="stop-color:#68b723;stop-opacity:1"
-         offset="1"
-         id="stop76" />
-    </linearGradient>
-    <linearGradient
-       y2="54.037033"
-       x2="34.913044"
-       y1="54.037033"
-       x1="20.443369"
-       gradientTransform="matrix(0,0.54188661,0.46916342,0,-17.115417,-6.9189116)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient940-5"
-       xlink:href="#linearGradient1597-6" />
-    <linearGradient
-       id="linearGradient1597-6">
-      <stop
-         id="stop1589-2"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop1591-9"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
-         offset="0.36232007" />
-      <stop
-         id="stop1593-1"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="1" />
-      <stop
-         id="stop1595-2"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
-         offset="1" />
-    </linearGradient>
-  </defs>
+     id="defs10" />
   <path
-     d="m 7.9980469,2.4999985 c -0.080838,0 -0.1508278,0.03231 -0.2089844,0.08789 L 3.601562,6.9277325 C 3.539343,6.9871715 3.5,7.0706086 3.5,7.16992 3.5,7.3544428 3.630217,7.4921856 3.804688,7.4921856 H 6.2011719 C 6.3640098,7.4920696 6.5,7.6380994 6.5,7.8164043 v 5.3769527 c 0,0.174818 0.1290258,0.306641 0.3007812,0.306641 H 9.203125 c 0.1717556,0 0.3007813,-0.131823 0.3007812,-0.306641 V 7.7851543 C 9.5189342,7.621474 9.6495011,7.4920768 9.8027344,7.4921856 H 12.199219 C 12.373688,7.4921856 12.5,7.354443 12.5,7.16992 12.5,6.9853436 12.42372,6.9913635 12.396484,6.9277325 L 8.2089844,2.5878895 c -0.054667,-0.05559 -0.1295192,-0.08789 -0.2109375,-0.087891 z"
-     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient72);fill-opacity:1;stroke:#206b00;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
-     id="path873-5-5" />
-  <path
-     d="M 8,3.8232296 5.4104466,6.5 h 0.9926493 c 0.5584978,2.081e-4 1.0963124,0.7738764 1.0964382,1.2200757 L 7.5004659,12.5 H 8.499534 L 8.500466,7.7200757 C 8.500575,7.2738764 9.0072072,6.500223 9.6057816,6.5 h 0.9729244 z"
-     style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient940-5);stroke-width:0.999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;stop-color:#000000;stop-opacity:1"
-     id="path873-5-5-2-3" />
+     id="path873-5"
+     style="opacity:1;fill:#555761;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 12.5,7.2260666 c 0,0.4312184 -0.334646,0.7783725 -0.750328,0.7783725 H 9 V 13.221628 C 9,13.652847 8.6653537,14 8.2496721,14 H 6.750328 C 6.3346459,14 5.9995901,13.652847 6,13.221628 V 8.0044391 H 3.250326 C 2.834646,8.0044391 2.5,7.657285 2.5,7.2260666 2.5,6.9936571 2.59736,6.7861919 2.752062,6.6438073 L 6.9758467,2.212837 C 7.1102264,2.081227 7.2908399,2 7.4902321,2 7.6896245,2 7.870237,2.081225 8.004617,2.212837 l 4.24332,4.4309703 C 12.402647,6.7861919 12.5,6.9936571 12.5,7.2260666 Z" />
 </svg>
